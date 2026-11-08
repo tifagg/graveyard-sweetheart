@@ -24,3 +24,5 @@ A personal website inspired by the nostalgic aesthetics of the early 2000s inter
 ### ♱ Credits
 Made with love, late-night coding sessions, and questionable amounts of internet nostalgia.
 
+*It is still a work in progress! Some sections and features may be incomplete or change as the website continues to evolve.*
+
