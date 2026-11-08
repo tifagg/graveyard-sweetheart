@@ -24,5 +24,3 @@ A personal website inspired by the nostalgic aesthetics of the early 2000s inter
 ### ♱ Credits
 Made with love, late-night coding sessions, and questionable amounts of internet nostalgia.
 
-*The website lives on Neocities. This repository serves as its project page.*
-
