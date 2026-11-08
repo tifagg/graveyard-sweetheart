@@ -6,7 +6,7 @@ A personal website inspired by the nostalgic aesthetics of the early 2000s inter
 
 ### 🌐 Visit the website
 
-**[Enter Tiffany's Corner 🕸️](https://tifah.neocities.org/)**
+**[Enter Tiffany's Corner 🕸️](https://tfah.neocities.org/)**
 
 ### ✦ Features
 - Dark gothic / grunge aesthetic
